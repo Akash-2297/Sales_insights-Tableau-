@@ -1,0 +1,15 @@
+1st))) import the dagabse in mysql than perform some sql queries on to it 
+
+
+
+
+tablue:
+1. first create the connection with  my sql
+2.create the realtion ship between each table resply..
+3.here  the analyst past is start ----- 
+remove -ve values
+convert usd to inr
+remove abroad contry code ...
+
+
+
